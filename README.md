@@ -12,7 +12,7 @@ The design is based on the **Restoring Division Algorithm**, a simple yet powerf
 
 ##  Module: `divider.v`
 
-### 🔧 Parameters
+###  Parameters
 - `M` → Width of the dividend (default = 3)  
 - `N` → Width of the divisor (default = 2)
 
