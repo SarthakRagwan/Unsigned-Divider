@@ -68,8 +68,11 @@ Divide `A = 13 (1101)` by `B = 3 (11)`:
 
 ##  Example Run Output
  0  |  A = 6  |  B = 2  |  Q = 3  |  R = 0
+ 
  5  |  A = 7  |  B = 2  |  Q = 3  |  R = 1
+ 
  10 |  A = 5  |  B = 3  |  Q = 1  |  R = 2
+ 
 
 **Features**
 
