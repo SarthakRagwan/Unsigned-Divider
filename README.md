@@ -1,6 +1,8 @@
 # Unsigned-Divider
 Parameterized unsigned divider in Verilog using restoring division algorithm, producing both quotient and remainder with full testbench support.
 
+Author; Sarthak Kumar
+
 ##  Overview
 This project implements a **parameterized unsigned binary divider** in Verilog.  
 It performs integer division of an M-bit **dividend (`A`)** by an N-bit **divisor (`B`)**, generating both **quotient (`Q`)** and **remainder (`R`)**.  
